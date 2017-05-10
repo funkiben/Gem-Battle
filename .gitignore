@@ -36,4 +36,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-Assets/Editor.meta
+/Assets/Editor.meta
